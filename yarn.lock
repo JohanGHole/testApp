@@ -1300,10 +1300,10 @@
   resolved "https://registry.yarnpkg.com/@cucumber/tag-expressions/-/tag-expressions-4.1.0.tgz#9a91b0e0dd2f2ba703e3038c52b49b9ac06c2c6f"
   integrity sha512-chTnjxV3vryL75N90wJIMdMafXmZoO2JgNJLYpsfcALL2/IQrRiny3vM9DgD5RDCSt1LNloMtb7rGey9YWxCsA==
 
-"@cypress/react@^6.2.0":
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/@cypress/react/-/react-6.2.1.tgz#3473136165c1bbe658f89becbe9fd0782aa506fa"
-  integrity sha512-c/ELgS2AgYM+6cKrSIRc0wd1fktalRWEvQRhuV+bVrvZHmU/BcrfIGsLT4juVLVjsK/jzl003vfQav2g9vF7ew==
+"@cypress/react@^7.0.2":
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/@cypress/react/-/react-7.0.2.tgz#175a57c8e5b80c9a7a051f62bd058fa27ad692b3"
+  integrity sha512-TTV7XNMDOO9mZUFWiGbd44Od/jqMVX/QbHYKQmK1XT3nIVFs0EvKJuHJmwN7wxLOR/+6twtyX6vTD8z8XBTliQ==
 
 "@cypress/request@^2.88.10":
   version "2.88.10"
